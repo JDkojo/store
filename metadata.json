@@ -1,0 +1,6 @@
+{
+  "name": "Kofi & Ama Provisions - Mobile QR Shop",
+  "description": "Mobile-first ordering web app for a Ghanaian provision shop with MoMo payments, ready packs, and quick pickup window.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
